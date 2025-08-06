@@ -1,14 +1,15 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Data.SqlTypes;
 
 namespace AddressBook;
 
 class Program
 {
-
+    bool ExitApplication = false;
     List<Contact> AddresBook = new List<Contact>();
-    public string ownerName = "";
+    string ownerName = "";
 
     public static void Main(string[] args)
     {
@@ -24,9 +25,9 @@ class Program
     {
 
     }
-    public static void EditContacts()
+    public static void EditContact(Contact contact, int id)
     {
-
+        
     }
     public static void DeleteContacts()
     {

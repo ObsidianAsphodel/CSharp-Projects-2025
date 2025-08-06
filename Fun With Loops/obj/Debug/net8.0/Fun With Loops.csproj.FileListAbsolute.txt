@@ -1,0 +1,16 @@
+I:\Art Folder\Programming Files\2025\CSharp Projects\Fun With Loops\bin\Debug\net8.0\Fun With Loops.exe
+I:\Art Folder\Programming Files\2025\CSharp Projects\Fun With Loops\bin\Debug\net8.0\Fun With Loops.deps.json
+I:\Art Folder\Programming Files\2025\CSharp Projects\Fun With Loops\bin\Debug\net8.0\Fun With Loops.runtimeconfig.json
+I:\Art Folder\Programming Files\2025\CSharp Projects\Fun With Loops\bin\Debug\net8.0\Fun With Loops.dll
+I:\Art Folder\Programming Files\2025\CSharp Projects\Fun With Loops\bin\Debug\net8.0\Fun With Loops.pdb
+I:\Art Folder\Programming Files\2025\CSharp Projects\Fun With Loops\obj\Debug\net8.0\Fun With Loops.csproj.AssemblyReference.cache
+I:\Art Folder\Programming Files\2025\CSharp Projects\Fun With Loops\obj\Debug\net8.0\Fun With Loops.GeneratedMSBuildEditorConfig.editorconfig
+I:\Art Folder\Programming Files\2025\CSharp Projects\Fun With Loops\obj\Debug\net8.0\Fun With Loops.AssemblyInfoInputs.cache
+I:\Art Folder\Programming Files\2025\CSharp Projects\Fun With Loops\obj\Debug\net8.0\Fun With Loops.AssemblyInfo.cs
+I:\Art Folder\Programming Files\2025\CSharp Projects\Fun With Loops\obj\Debug\net8.0\Fun With Loops.csproj.CoreCompileInputs.cache
+I:\Art Folder\Programming Files\2025\CSharp Projects\Fun With Loops\obj\Debug\net8.0\Fun With Loops.sourcelink.json
+I:\Art Folder\Programming Files\2025\CSharp Projects\Fun With Loops\obj\Debug\net8.0\Fun With Loops.dll
+I:\Art Folder\Programming Files\2025\CSharp Projects\Fun With Loops\obj\Debug\net8.0\refint\Fun With Loops.dll
+I:\Art Folder\Programming Files\2025\CSharp Projects\Fun With Loops\obj\Debug\net8.0\Fun With Loops.pdb
+I:\Art Folder\Programming Files\2025\CSharp Projects\Fun With Loops\obj\Debug\net8.0\Fun With Loops.genruntimeconfig.cache
+I:\Art Folder\Programming Files\2025\CSharp Projects\Fun With Loops\obj\Debug\net8.0\ref\Fun With Loops.dll

@@ -1,0 +1,16 @@
+I:\Art Folder\Programming Files\2025\CSharp Projects\Address Book Application\bin\Debug\net8.0\Address Book Application.exe
+I:\Art Folder\Programming Files\2025\CSharp Projects\Address Book Application\bin\Debug\net8.0\Address Book Application.deps.json
+I:\Art Folder\Programming Files\2025\CSharp Projects\Address Book Application\bin\Debug\net8.0\Address Book Application.runtimeconfig.json
+I:\Art Folder\Programming Files\2025\CSharp Projects\Address Book Application\bin\Debug\net8.0\Address Book Application.dll
+I:\Art Folder\Programming Files\2025\CSharp Projects\Address Book Application\bin\Debug\net8.0\Address Book Application.pdb
+I:\Art Folder\Programming Files\2025\CSharp Projects\Address Book Application\obj\Debug\net8.0\Address Book Application.csproj.AssemblyReference.cache
+I:\Art Folder\Programming Files\2025\CSharp Projects\Address Book Application\obj\Debug\net8.0\Address Book Application.GeneratedMSBuildEditorConfig.editorconfig
+I:\Art Folder\Programming Files\2025\CSharp Projects\Address Book Application\obj\Debug\net8.0\Address Book Application.AssemblyInfoInputs.cache
+I:\Art Folder\Programming Files\2025\CSharp Projects\Address Book Application\obj\Debug\net8.0\Address Book Application.AssemblyInfo.cs
+I:\Art Folder\Programming Files\2025\CSharp Projects\Address Book Application\obj\Debug\net8.0\Address Book Application.csproj.CoreCompileInputs.cache
+I:\Art Folder\Programming Files\2025\CSharp Projects\Address Book Application\obj\Debug\net8.0\Address Book Application.sourcelink.json
+I:\Art Folder\Programming Files\2025\CSharp Projects\Address Book Application\obj\Debug\net8.0\Address Book Application.dll
+I:\Art Folder\Programming Files\2025\CSharp Projects\Address Book Application\obj\Debug\net8.0\refint\Address Book Application.dll
+I:\Art Folder\Programming Files\2025\CSharp Projects\Address Book Application\obj\Debug\net8.0\Address Book Application.pdb
+I:\Art Folder\Programming Files\2025\CSharp Projects\Address Book Application\obj\Debug\net8.0\Address Book Application.genruntimeconfig.cache
+I:\Art Folder\Programming Files\2025\CSharp Projects\Address Book Application\obj\Debug\net8.0\ref\Address Book Application.dll
