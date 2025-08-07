@@ -1,16 +1,14 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
-using System.Data.SqlTypes;
-using System.Dynamic;
-using System.Net.Http.Headers;
-using System.Xml.Serialization;
+using System.Data.Common;
+using System.Runtime.InteropServices;
 
 namespace AddressBook;
 
 class Program
 {
-    List<Contact> AddresBook = new List<Contact>();
+    static List<Contact> AddressBookList = new List<Contact>();
 
     public static void Main(string[] args)
     {
@@ -21,6 +19,10 @@ class Program
     public static void ViewContacts()
     {
         Console.WriteLine("View Contacts");
+        foreach (Contact contact in AddressBookList)
+        {
+            Console.WriteLine(contact);
+        }
 
         Console.WriteLine("Please choice an option below:");
         Console.WriteLine("1. View Contacts");
@@ -61,6 +63,12 @@ class Program
     public static void AddContacts()
     {
         Console.WriteLine("Add Contacts");
+        Console.WriteLine("Enter a new contact:");
+
+        Contact NewContact = new Contact(Console.ReadLine(), Console.ReadLine(), Console.ReadLine());
+        AddressBookList.Add(NewContact);
+        Console.WriteLine(NewContact);
+        Console.WriteLine("New Contact Entered");
 
         Console.WriteLine("Please choice an option below:");
         Console.WriteLine("1. View Contacts");
@@ -148,7 +156,7 @@ class Program
         Console.WriteLine("3. Edit Contacts");
         Console.WriteLine("4. Delete Contact");
         Console.WriteLine("5. Exit");
-        
+
         MenuChoice();
         static void MenuChoice()
         {
@@ -184,9 +192,16 @@ class Program
         Console.Clear();
     }
 }
-class Contact
+public class Contact
 {
-    public static string Name = "";
-    public static string Address = ""; 
+    public Contact(string first, string last, string address)
+    {
+        FirstName = first;
+        LastName = last;
+        Address = address;
+    }
+    string FirstName { get; set; }
+    string LastName { get; set; }
+    string Address{ get; set; }
 }
 // Show List Of Address Book
