@@ -28,7 +28,7 @@ class Program
         {
             for (int i = 0; i < AddressBookList.Count; i++)
             {
-                Console.WriteLine("{0}. Name: {1} {2} Address: {3}", i + 1, AddressBookList[i].FirstName, AddressBookList[i].LastName, AddressBookList[i].Address);
+                Console.WriteLine("{0}. Name: {1} {2} | Address: {3} |", i + 1, AddressBookList[i].FirstName, AddressBookList[i].LastName, AddressBookList[i].Address);
             }
         }
 
